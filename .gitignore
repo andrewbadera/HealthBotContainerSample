@@ -3,3 +3,6 @@ node_modules/
 .env
 .deployment
 .vscode
+/.vs/HealthBotContainerSample/CopilotIndices/17.14.719.50355
+/.vs/HealthBotContainerSample/FileContentIndex
+*.sqlite
